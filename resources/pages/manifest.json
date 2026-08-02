@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "articles",
+    "title": "Articles",
+    "file": "pages/articles.md"
+  },
+  {
+    "slug": "tools",
+    "title": "Tools",
+    "file": "pages/tools.md"
+  }
+]

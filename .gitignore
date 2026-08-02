@@ -1,0 +1,9 @@
+# Obsidian local state — device-specific, not needed by the live site
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db

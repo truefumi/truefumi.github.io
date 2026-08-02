@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "intro",
+    "title": "Introduction",
+    "file": "pages/01-intro.md"
+  },
+  {
+    "slug": "background",
+    "title": "Background",
+    "file": "pages/02-background.md"
+  }
+]

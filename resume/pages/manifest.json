@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "experience",
+    "title": "Work Experience",
+    "file": "pages/01-experience.md"
+  },
+  {
+    "slug": "education",
+    "title": "Education",
+    "file": "pages/02-education.md"
+  },
+  {
+    "slug": "skills",
+    "title": "Skills",
+    "file": "pages/03-skills.md"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "project-one",
+    "title": "Project One",
+    "file": "pages/project-one.md"
+  },
+  {
+    "slug": "project-two",
+    "title": "Project Two",
+    "file": "pages/project-two.md"
+  }
+]

@@ -1,0 +1,39 @@
+name: Build page manifests
+
+# Regenerates each section's pages/manifest.json (the list of nested
+# .md pages it should show) and commits the result back to the repo,
+# so adding a new page never requires touching any HTML file.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-manifests:
+    runs-on: ubuntu-latest
+    # Belt-and-suspenders: GitHub already skips workflow runs for push
+    # events whose commit message contains "[skip ci]", which the commit
+    # below always includes — this condition just makes that explicit.
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v7
+
+      - name: Generate manifest.json for each section
+        run: node .github/scripts/generate-manifests.js
+
+      - name: Commit manifests if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add '*/pages/manifest.json'
+          if git diff --cached --quiet; then
+            echo "No manifest changes — nothing to commit."
+          else
+            git commit -m "Auto-generate page manifests [skip ci]"
+            git push
+          fi

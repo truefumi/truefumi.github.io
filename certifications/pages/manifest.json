@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "cert-one",
+    "title": "Certification One",
+    "file": "pages/cert-one.md"
+  },
+  {
+    "slug": "cert-two",
+    "title": "Certification Two",
+    "file": "pages/cert-two.md"
+  }
+]
