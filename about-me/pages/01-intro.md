@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm **Your Name** — replace this text with your own introduction.
+Hi, I'm True Sarmiento.
 
 I'm a [your role, e.g. software engineer] based in [your city]. I care about
 [the things you care about], and this site is where I share my work,
