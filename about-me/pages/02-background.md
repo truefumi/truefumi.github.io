@@ -1,6 +1,6 @@
 # Background
 
-I truly cannot remember a time where computers were NOT a part of my life. I grew up with a father who worked in IT for many years. As many other IT or computer science professionals understand, there were always spare parts to mess around with while my father was working on his own personal projects at home. I was on-site with him during networking outages, sitting in those cold and loud data centers, coiling cables while he stabilized and resolved the outage. He even started a robotics program at my school just for me to be more invo
+I truly cannot remember a time where computers were NOT a part of my life. I grew up with a father who worked in IT for many years. As many other IT or computer science professionals understand, there were always spare parts to mess around with while my father was working on his own personal projects at home. I was on-site with him during networking outages, sitting in those cold and loud data centers, coiling cables while he stabilized and resolved the outage. He even started a robotics program and cyber security teams at my schools just for me to be more involved in STEM-related extra curricular. All this to say: I've been around  the industry
 
 ## A few milestones
 
