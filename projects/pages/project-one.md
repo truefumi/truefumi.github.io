@@ -1,10 +1,10 @@
-# Github Pages Website
+# GitHub Pages Website
 
-**Summary:** Professional portfolio website for greater project and experience visibility
+**Summary:** Professional portfolio website for greater project and experience visibility designed to showcase what a traditional resume might miss.
 
 ## Stack
 
-`Language` · `Framework` · `Database` · `Hosting`
+`Markdown` · `Framework` · `Database` · `Hosting`
 
 ## Highlights
 
