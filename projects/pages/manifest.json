@@ -1,5 +1,10 @@
 [
   {
+    "slug": "project-four",
+    "title": "Linux Workstation",
+    "file": "pages/project-four.md"
+  },
+  {
     "slug": "project-one",
     "title": "Professional Portfolio Website",
     "file": "pages/project-one.md"
