@@ -1,8 +1,6 @@
 # Background
 
-This is a nested page inside the **About Me** section
-(`about-me/pages/background.md`). Use it for a longer story: where you grew
-up, how you got into your field, or what led you to your current work.
+Growing up with a father who worked in IT and engineering related fields, it was only natural that I was around
 
 ## A few milestones
 
