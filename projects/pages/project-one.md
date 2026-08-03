@@ -4,11 +4,11 @@
 
 ## Stack
 
-`Markdown` · `Framework` · `Database` · `Hosting`
+`Markdown` · `HTML` · `GitHub Pages` · `GitHub Actions`
 
 ## Highlights
 
-- What problem it solves
+- Use Case: Personal portfolios transcend 
 - A technically interesting decision you made
 - The outcome or impact
 
