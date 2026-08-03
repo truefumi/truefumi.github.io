@@ -7,7 +7,7 @@ resume, and to share my progress via blog posts along the way.
 
 ## What I'm up to
 
-- Currently working on `Home Lab` and `Linux Workspace`
+- Currently working on `Home Lab` and `Linux Workstation`
 - Learning `Networking Design`
 - Open to `AppSec and DevSecOps roles`
 
