@@ -2,8 +2,7 @@
 
 Hi, I'm True Sarmiento.
 
-I'm a [your role, e.g. software engineer] based in [your city]. I care about
-[the things you care about], and this site is where I share my work,
+I'm an IT & Cyber Security professional based in Southern California. I have a passion for building secure and efficient systems and this site is where I share my work,
 resume, and a few things I've learned along the way.
 
 ## What I'm up to
