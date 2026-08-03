@@ -5,6 +5,11 @@
     "file": "pages/project-one.md"
   },
   {
+    "slug": "project-three",
+    "title": "Obsidian Configuration",
+    "file": "pages/project-three.md"
+  },
+  {
     "slug": "project-two",
     "title": "Home Lab",
     "file": "pages/project-two.md"
