@@ -2,8 +2,8 @@
 
 Hi, I'm True Sarmiento.
 
-I'm an IT & Cyber Security professional based in Southern California. I have a passion for building secure and efficient systems and this site is where I share my work,
-resume, and a few things I've learned along the way.
+I'm an IT & Cyber Security professional based in Southern California. I have a passion for building secure and efficient systems while using creative tools with foundational methods. This site is where I share my work,
+resume, and to share my progress via blog posts along the way.
 
 ## What I'm up to
 
