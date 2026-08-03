@@ -1,12 +1,12 @@
 [
   {
     "slug": "project-one",
-    "title": "Project One",
+    "title": "Github Pages Website",
     "file": "pages/project-one.md"
   },
   {
     "slug": "project-two",
-    "title": "Project Two",
+    "title": "Home Lab",
     "file": "pages/project-two.md"
   }
 ]
