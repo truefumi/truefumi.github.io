@@ -4,7 +4,7 @@ I truly cannot remember a time where computers were NOT a part of my life. I gre
 
 My interest in computer systems and cyber security started during a FIRST Lego League season project in which I used a Raspberry Pi for the first time. There, I was introduced to Linux and the command line and my fate was sealed. After that season, I continued to learn more about the world of operating systems and free open-source software. As I grew into my adulthood and started college, I was the only one of my peers in the Computer Science degree that started out wanting to go into Cyber Security. Many thought that I should have simply gotten a few certifications rather than a 4-year degree; some of those arguments hold a lot of truth to them. However, my life pursuit was not to just become educated for work, but to further the field of study I've been obsessed with for years. I chose to pursue a Master's in Cyber Security Engineering from the University of Southern California's Viterbi School of Engineering to gain a deeper understanding of how systems truly worked and what "secure" could mean.
 
-Today, I am still a perpetual student of the Cyber Security field and will continue to be one through the rest of my life. 
+Today, I am still a perpetual student of the Cyber Security field and continue to seek knowledge that inspires me to create secure and beautiful systems.
 
 ## A few milestones
 

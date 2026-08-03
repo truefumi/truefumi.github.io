@@ -2,8 +2,8 @@
 
 **Issuer:** ISC2
 **Earned:** March 2026
-**Credential ID:** (optional)
+**Credential ID:** REDACTED
 
-Brief description of what the certification covers and why you pursued it.
+ISC2 offered a free certification exam and training 
 
 [View credential](https://example.com/credential-link)
