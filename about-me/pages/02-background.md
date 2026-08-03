@@ -15,4 +15,11 @@ Today, I am still a perpetual student of the Cyber Security field and will conti
 5. Second role @ **Ursa Technologies Inc** as *IT Security Engineer*
 
 ## Interests outside of work
+
+- Reading
+- Bouldering (Rock Climbing)
+- Muay Thai
+- Linux
+- Security Research / Bug Bounty
+- Cooking
 - 
