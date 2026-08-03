@@ -1,6 +1,6 @@
 # Certified in Cyber Security
 
-**Issuer:** Organization Name
+**Issuer:** ISC2
 **Earned:** Month Year
 **Credential ID:** (optional)
 
