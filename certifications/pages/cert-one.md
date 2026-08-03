@@ -1,4 +1,4 @@
-# Certification One
+# Certified in Cyber Security
 
 **Issuer:** Organization Name
 **Earned:** Month Year
