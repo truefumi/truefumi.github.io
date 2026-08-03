@@ -9,8 +9,9 @@ Today, I am still a perpetual student of the Cyber Security field and will conti
 ## A few milestones
 
 1. Graduated with a Bachelor's in Computer Science
-2. First role at **Company Name**
-3. Enrolled into USC's Cyber Security graduate program
+2. First role at **Current Renewables Engineering** as *IT & Security Operations
+3. 
+4. Enrolled into USC's Cyber Security graduate program
 
 ## Interests outside of work
 
