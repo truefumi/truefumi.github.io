@@ -8,8 +8,8 @@
 
 ## Highlights
 
-- What problem it solves
-- A technically interesting decision you made
+- This project was started to reduce monthly costs of paid subscription services while improving my networking skills and operation security at home
+- I've decid
 - The outcome or impact
 
 [View on GitHub](https://github.com/yourusername/project-two) · [Live demo](https://example.com)
