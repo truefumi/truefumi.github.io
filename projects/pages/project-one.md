@@ -1,4 +1,4 @@
-# Project One
+# Github Pages Website
 
 **Summary:** one or two sentences describing what this project is and why
 you built it.

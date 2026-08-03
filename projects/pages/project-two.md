@@ -1,4 +1,4 @@
-# Project Two
+# Home Lab
 
 **Summary:** one or two sentences describing what this project is and why
 you built it.
