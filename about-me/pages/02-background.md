@@ -1,6 +1,6 @@
 # Background
 
-I truly cannot remember a time where computers were NOT a part of my life. I grew up with a father who worked in IT for many years. As many other IT professionals
+I truly cannot remember a time where computers were NOT a part of my life. I grew up with a father who worked in IT for many years. As many other IT or computer science professionals understand, there were always spare parts to mess around with while my father was working on his own personal projects at home. I was on-site with him during networking outages, 
 
 ## A few milestones
 
