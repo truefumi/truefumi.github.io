@@ -8,8 +8,8 @@ resume, and to share my progress via blog posts along the way.
 ## What I'm up to
 
 - Currently working on `Project Name`
-- Learning `New Skill`
-- Open to `opportunity or collaboration type`
+- Learning `Networking Design`
+- Open to `AppSec or DevSecO`
 
 > Edit this file at `about-me/pages/intro.md` — everything on this page is
 > plain Markdown, so you can write it the same way you'd write a GitHub README.
