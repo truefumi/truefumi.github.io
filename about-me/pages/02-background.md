@@ -8,13 +8,11 @@ Today, I am still a perpetual student of the Cyber Security field and will conti
 
 ## A few milestones
 
-1. Graduated with a Bachelor's in Computer Science
+1. Graduated with a *Bachelor's in Computer Science*
 2. First role at **Current Renewables Engineering** as *IT Operations & Security Administrator*
 3. Promoted to *IT Security Engineer* & *DevSecOps Engineer* within a year at **Current Renewables Engineering**
 4. Enrolled into USC's Cyber Security graduate program
-5. Second role 
+5. Second role @ **Ursa Technologies Inc** as *IT Security Engineer*
 
 ## Interests outside of work
-
-Talk about hobbies, volunteering, or anything that rounds out who you are.
-This helps visitors connect with you as a person, not just a resume.
+- 
