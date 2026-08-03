@@ -10,6 +10,4 @@
 
 - This project was started to reduce monthly costs of paid subscription services while improving my networking skills and operation security at home
 - I've decided to build all of my home lab out of materials that I've either found, scavenged, or bought for a significantly lower amount
-- Learning by building is how I learn best. Building out this Home Lab allows me to satisfy my obsession with Cyber Security while building
-
-[View on GitHub](https://github.com/yourusername/project-two) · [Live demo](https://example.com)
+- Learning by building is how I learn best. Building out my Home Lab allowed me to put all my "theoretical" knowledge into practice.
