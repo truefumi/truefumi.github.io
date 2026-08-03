@@ -1,4 +1,4 @@
-# GitHub Pages Website
+# Professional Portfolio Website
 
 **Summary:** Professional portfolio website for greater project and experience visibility designed to showcase what a traditional resume might miss.
 
