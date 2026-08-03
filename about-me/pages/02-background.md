@@ -22,4 +22,4 @@ Today, I am still a perpetual student of the Cyber Security field and will conti
 - Linux
 - Security Research / Bug Bounty
 - Cooking
-- 
+- Trading Card Games

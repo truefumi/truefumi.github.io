@@ -7,8 +7,8 @@ resume, and to share my progress via blog posts along the way.
 
 ## What I'm up to
 
-- Currently working on `Home Lab` and `Linux Workstation`
-- Learning `Networking Design`
+- Designing and  on `Home Lab` and `Linux Workstation`
+- Learning `Networking Design` for my `Home Lab` project
 - Open to `AppSec and DevSecOps roles`
 
 [LinkedIn](https://www.linkedin.com/in/true-sarmiento-b9242a1b6/) · [GitHub](https://github.com/truefumi)
