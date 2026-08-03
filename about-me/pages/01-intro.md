@@ -2,12 +2,12 @@
 
 Hi, I'm True Sarmiento.
 
-I'm an IT & Cyber Security professional based in Southern California. I have a passion for building secure and efficient systems while using creative tools with foundational methods. This site is where I share my work,
-resume, and to share my progress via blog posts along the way.
+I'm an IT & Cyber Security professional based in Southern California. I have a passion for building secure and efficient systems using creative tools with foundational methods. This site was created so that I can share my work,
+display my resume, and to share my progress via blog posts along the way.
 
 ## What I'm up to
 
-- Designing and  on `Home Lab` and `Linux Workstation`
+- Designing and developing my `Home Lab` and `Linux Workstation`
 - Learning `Networking Design` for my `Home Lab` project
 - Open to `AppSec and DevSecOps roles`
 
