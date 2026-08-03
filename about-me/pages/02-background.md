@@ -2,7 +2,7 @@
 
 I truly cannot remember a time where computers were NOT a part of my life. I grew up with a father who worked in IT for many years. As many other IT or computer science professionals understand, there were always spare parts to mess around with while my father was working on his own personal projects at home. I was on-site with him during networking outages, sitting in those cold and loud data centers, coiling cables while he stabilized and resolved the outage. He even started a robotics program and cyber security teams at my schools just for me to be more involved in STEM-related extra curricular. All this to say: I've been around  the industry for longer than I've been working in it professionally. 
 
-My interest in computer systems and cyber security started during a FIRST Lego League season project in which I used a R
+My interest in computer systems and cyber security started during a FIRST Lego League season project in which I used a Raspberry Pi for the first time. There, I was introduced to Linux and the command line and my fate was sealed. After that season, I continued to learn more about the world of operating systems and free open-source software. A
 
 ## A few milestones
 
