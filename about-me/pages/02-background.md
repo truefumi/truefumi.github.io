@@ -1,6 +1,6 @@
 # Background
 
-Growing up with a father who worked in IT and engineering related fields, it was only natural that I was encouraged to pursue some sort of career into STEM.
+I truly cannot remember a time where computers were NOT a part of my life. I grew up with a father who worked in IT for many years. As many other IT professionals
 
 ## A few milestones
 
