@@ -12,7 +12,7 @@ Today, I am still a perpetual student of the Cyber Security field and will conti
 2. First role at **Current Renewables Engineering** as *IT Operations & Security Administrator*
 3. Promoted to *IT Security Engineer* & *DevSecOps Engineer* within a year at **Current Renewables Engineering**
 4. Enrolled into USC's Cyber Security graduate program
-5. 
+5. Second role 
 
 ## Interests outside of work
 
