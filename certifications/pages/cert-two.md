@@ -1,7 +1,7 @@
-# Certification Two
+# CompTIA Network+
 
-**Issuer:** Organization Name
-**Earned:** Month Year
+**Issuer:** CompTIA
+**Earned:** In-Progress
 **Credential ID:** (optional)
 
 Brief description of what the certification covers and why you pursued it.
