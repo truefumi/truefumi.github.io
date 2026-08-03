@@ -1,6 +1,6 @@
 # Background
 
-Growing up with a father who worked in IT and engineering related fields, it was only natural that I was around
+Growing up with a father who worked in IT and engineering related fields, it was only natural that I was encouraged to pursue some sort of career into STEM.
 
 ## A few milestones
 
