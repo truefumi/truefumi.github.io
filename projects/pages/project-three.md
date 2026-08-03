@@ -1,7 +1,6 @@
 # Obsidian Configuration
 
-**Summary:** one or two sentences describing what this project is and why
-you built it.
+**Summary:** optimizing obsidian configuration for better documentation consistency and  
 
 ## Stack
 
