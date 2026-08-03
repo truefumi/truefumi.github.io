@@ -1,7 +1,6 @@
-# Home Lab
+# Networking Home Lab
 
-**Summary:** one or two sentences describing what this project is and why
-you built it.
+**Summary:** designing and configuring a home lab for hosting ser
 
 ## Stack
 

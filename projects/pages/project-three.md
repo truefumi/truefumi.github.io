@@ -1,6 +1,6 @@
 # Obsidian Configuration
 
-**Summary:** optimizing obsidian configuration for better documentation consistency and  
+**Summary:** optimizing obsidian configuration for better documentation consistency and readability 
 
 ## Stack
 
