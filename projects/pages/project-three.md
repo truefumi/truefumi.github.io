@@ -13,3 +13,9 @@
 - The outcome or impact
 
 [View on GitHub](https://github.com/yourusername/project-one) · [Live demo](https://example.com)
+
+
+## Project Requirements
+
+
+## Technical Blog

@@ -13,3 +13,9 @@
 - **Outcome**: A centralized portfolio to document and highlight  projects and experiences for a greater audience and to practice maintaining and updating documentation to track progress. 
 
 [View on GitHub](https://github.com/yourusername/project-one) · [Live demo](https://example.com)
+
+## Project Requirements
+
+
+## Technical Blog
+
