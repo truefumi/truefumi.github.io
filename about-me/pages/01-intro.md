@@ -14,4 +14,4 @@ resume, and to share my progress via blog posts along the way.
 > Edit this file at `about-me/pages/intro.md` — everything on this page is
 > plain Markdown, so you can write it the same way you'd write a GitHub README.
 
-[Get in touch](mailto:you@example.com) · [GitHub](https://github.com/yourusername)
+[Get in touch](https://www.linkedin.com/in/true-sarmiento-b9242a1b6/) · [GitHub](https://github.com/yourusername)
