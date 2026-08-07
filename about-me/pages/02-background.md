@@ -6,6 +6,8 @@ My interest in computer systems and cyber security started during a FIRST Lego L
 
 Today, I am still a perpetual student of the Cyber Security field and continue to seek knowledge that inspires me to create secure and beautiful systems.
 
+Valor is a dunderhead.
+
 ## A few milestones
 
 1. Graduated with a *Bachelor's in Computer Science*
