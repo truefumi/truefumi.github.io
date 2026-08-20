@@ -7,13 +7,8 @@
 - Thesis or capstone project, if applicable.
 
 ## Bachelor's of Science, Computer Science
-**California Baptist University** · Graduation Year
+**California Baptist University** · 2022
 
 - Relevant coursework, honors, or GPA (optional).
 - Thesis or capstone project, if applicable.
 
-## Additional Coursework / Bootcamp (optional)
-
-**Program Name** · Year
-
-- Brief description of what the program covered.
