@@ -19,7 +19,7 @@ Today, I am still a perpetual student of the Cyber Security field and continue t
 - Reading
 - Bouldering (Rock Climbing)
 - Muay Thai
-- Linux
+- Linux & BSD systems
 - Security Research / Bug Bounty
 - Cooking
 - Trading Card Games
