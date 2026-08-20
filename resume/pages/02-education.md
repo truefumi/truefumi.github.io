@@ -1,6 +1,6 @@
 # Education
 
-## Degree Name
+## Bachelor's of Science, Computer Science
 **University Name** · Graduation Year
 
 - Relevant coursework, honors, or GPA (optional).
