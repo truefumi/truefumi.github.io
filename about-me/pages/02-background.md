@@ -17,6 +17,7 @@ Today, I am still a perpetual student of the Cyber Security field and continue t
 ## Interests outside of work
 
 - Reading
+- Writing
 - Bouldering (Rock Climbing)
 - Muay Thai
 - Linux & BSD systems
