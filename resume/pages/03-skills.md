@@ -7,6 +7,7 @@
 | Languages  | Bash, Python, C, JavaScript, Nix |
 | Frameworks | e.g. React, Node.js              |
 | Tools      | e.g. Git, Docker                 |
+| example    |                                  |
 
 ## Other
 
